@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/901.6b09629c.chunk.js","mappings":"mIAIA,UAJY,CACR,C","sources":["custom_src/translations/greek.js"],"sourcesContent":["var greek = {\n    // english: \"English custom\"\n}\n\nexport default greek;"],"names":[],"sourceRoot":""}
